@@ -1,0 +1,30 @@
+body {
+  font-family: Verdana;
+  color: white;
+  background-color: Black;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+#brush {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+p {
+  font-size: 21px;
+  color: grey;
+}
+
+#copyright {
+  text-align: right!important;
+}
